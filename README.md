@@ -1,4 +1,4 @@
-## Conceitos de banco de dados (tabelas, colunas, linhas, PK, FK
+## Conceitos de banco de dados (tabelas, colunas, linhas, PK, FK)
 
 ### 1️⃣ **Tabelas**
 
